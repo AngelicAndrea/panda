@@ -1,0 +1,101 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+#encabezado{
+    background-color: #f78e69;
+    height: 15em;
+}
+.title{
+    color: white;
+    font-size: 3.2em;
+    text-align: right;
+    padding: 5% 5% 0% 0%;
+}
+.subtitle{
+    color: white;
+    font-size: 1.2em;
+    text-align: right;
+    padding: 2% 5% 0% 0%;
+    font-weight: lighter;
+}
+.img-panda{
+    width: 100%;
+    padding: 0%;
+    margin: 0px;
+}
+#panda-1 img{
+    width: 100%;
+    filter: grayscale(100%);
+}
+#container{
+    background-color: #abe188;
+    border-top: 2em solid #f78e69;
+    border-bottom: 2em solid #f78e69;
+}
+.container-text{
+    background-color: #f78e69;
+    width: 40%;
+    margin: 5% 30% 5% 30%;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    font-weight: lighter;
+    padding: 6%;
+    box-sizing: content-box;
+    line-height: 150%;
+}
+.title-2{
+    padding: 2%;
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+}
+.panda-2 img{
+    filter: grayscale(100%);
+    width: 100%;
+}
+.imagenes-container{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+.pandas{
+    border: 1em solid white;
+    margin: 2%;
+}
+#panda-3{
+    background-color: #abe188;
+    width: 100%;
+    height: 30.4em;
+    border-top: 2em solid #f78e69;
+    border-bottom: 2em solid #f78e69;
+}
+.pandas:first-child{
+    margin-left: 16%;
+}
+.title-3{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    padding: 2%
+}
+.container-panda{
+    padding: 0%;
+    filter: grayscale(100%);
+}
+#panda-4 img{
+    width: 100%;
+}
+#final-content{
+    background-color: #f78e69;
+}
+.text-footer{
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5%;
+}

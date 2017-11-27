@@ -1,0 +1,48 @@
+/* Versión 2 para moviles */
+@media (min-width:200px) and (max-width:824px){
+
+    .title{
+        font-size: 1.5em;
+    }
+    #encabezado{
+        height: 8em;
+    }
+    .subtitle{
+        font-size: 0.8em;
+    }
+    .container-text{
+        width: 70%;
+        margin: 5% 15% 5% 15%;
+    }
+    .title-2{
+        font-size: 0.8em;
+    }
+    .text{
+        font-size: 0.6em;
+    }
+    #container{
+        border-top: 1em solid #f78e69;
+        border-bottom: 1em solid #f78e69;
+    }
+    .title-3{
+        font-size: 2em;
+    }
+    .pandas{
+        border: 0.6em solid white;
+        display: block;
+        margin: auto;
+        margin-bottom: 5%;
+    }
+    .pandas:first-child{
+       margin: auto;
+       margin-bottom: 5%;
+    }
+    #panda-3{
+        height: 100%;
+        border-top: 1em solid #f78e69;
+        border-bottom: 1em solid #f78e69;
+    }
+    .text-footer{
+        font-size: 0.5em;
+    }
+}
